@@ -1,6 +1,18 @@
 # Johan Grahn
 
-*Senior Software developer based in Sundsvall, Sweden which a passion for solving problems and helping teams do their best work.*
+*Senior Software Developer based in Sundsvall, Sweden which a passion for solving problems and helping teams do their best work.*
+
+
+**Senior Software Developer** @ [Bonnier News](https://bonniernews.se/), Remote, _(Dec 2020 - Present)_
+Developing a distribution system for a global Content-API for all content within Bonnier News.
+- Working with large scaling
+- **_Technologies used:_** NodeJS, PostgreSQL, Google Cloud Platform
+
+<!-- No-code platform that enables professionals to build interactive applications. -->
+<!--   - Implementing features that improve the UI and accessibility of the integrations platform -->
+<!--   - Extending a company-wide design system -->
+<!--   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement). -->
+<!-- <br><br> -->
 
 You can use the [editor on GitHub](https://github.com/johangrahn/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
