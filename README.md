@@ -34,8 +34,7 @@ I created new simple sites for smal businesses that needed a webshop or just sho
 
 - **_Technologies used:_** HTML, CSS, PHP, MySQL.
 
-## 👩🏼‍🎓 Skills
+## 👩🏼‍🎓 Certifications
 
 - ✓ Certified Scrum Master
 - ✓ Basic Certification in AWS usage
--
