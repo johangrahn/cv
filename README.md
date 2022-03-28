@@ -22,7 +22,7 @@ I was also the scrum master for the team.
 
 - **_Technologies used:_** Amazon Kinesis, Amazon Readshift, Python.
 
-**Telecom Consultant @ [Telia](https://telia.se/), Sundsvall, _(Nov 2011 - Apr 2016)_
+**Telecom Consultant** @ [Telia](https://telia.se/), Sundsvall, _(Nov 2011 - Apr 2016)_
 My assignment was to manage Telia's 4G rollout and perform a quality assurance that everyhing worked before turning over the anntena into production.
 
 I also created a little software that automated the configuration that where pushed onto all new antenna software so that we could easily have a easy way to deploy changes.
